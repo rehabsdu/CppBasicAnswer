@@ -1,3 +1,5 @@
 # C++ Basic Answer
 
-This repository is the code answer to the *C++ Basic Programming* textbook.
+此仓库是*C++基础教程*一书的习题相关的代码题的解答，这些答案仅供参考，并不唯一。
+
+如果发现代码中有bug，请在Issue中提出问题。
